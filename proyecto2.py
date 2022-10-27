@@ -1,6 +1,3 @@
-from cProfile import label
-from cgitb import text
-from pyclbr import Function
 from tkinter import *
 from wsgiref.validate import validator
 # definimos los comandos que aran que aumente y disminuya de uno en uno el contador 
